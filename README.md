@@ -1,1 +1,1 @@
-This is my first gut project! Let's celebrate! :)
+This is my first git project! Let's celebrate! :)
